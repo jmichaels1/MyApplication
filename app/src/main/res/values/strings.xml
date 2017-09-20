@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="lbl_title">My title</string>
+    <string name="lbl_subtitle">My subtitle</string>
+    <string name="lbl_comment">My comment</string>
+    <string name="lbl_comment2">My comment 2</string>
+    <string name="boton1">Aceptar</string>
+
 </resources>
