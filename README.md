@@ -1,6 +1,7 @@
 # MyApplication
 My first android project
 Escola del treball
+El Samuel ha pasado por aquí
 ******************
 ⋅⋅1. Ordered sub-list
 
